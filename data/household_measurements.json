@@ -1,0 +1,17 @@
+{
+    "cup": 180,
+    "katori": 180,
+    "tablespoon": 15,
+    "tbsp": 15,
+    "teaspoon": 5,
+    "tsp": 5,
+    "glass": 250,
+    "slice": 30,
+    "piece": 40,
+    "small": 50,
+    "medium": 75,
+    "large": 100,
+    "clove": 5,
+    "pinch": 1
+  }
+  
